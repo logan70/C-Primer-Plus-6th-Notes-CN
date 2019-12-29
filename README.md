@@ -4,4 +4,4 @@
 
 ## 目录
 
-[第一章 初始C语言](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/tree/master/Chapter-1%20Getting%20Started)
+[第一章 初识C语言](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/tree/master/Chapter-1%20Getting%20Started)

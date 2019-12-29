@@ -30,6 +30,7 @@ C编程的基本策略是，用程序把源代码文件转换为可执行文件�
 C语言编译器主流的有`gcc`和`clang`两种，各系统都使用 `cc` 别名来代替`gcc`或`clang`命令。
 
 [GCC最新发布和版本](http://www.gnu.org/software/gcc/index.html)
+
 [Clang最新发布和版本](https://clang.llvm.org)
 
 - 显示编译器信息及版本：`cc -v`
