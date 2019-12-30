@@ -17,7 +17,7 @@ C编程的基本策略是，用程序把源代码文件转换为可执行文件�
 - 编译器：把源代码转换成目标代码；
 - 链接器：把目标代码和启动代码（startup code）、库代码合并生成可执行文件。
 
-![C编程机制](1-compiler-and-linker.png)
+![C编程机制](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/blob/master/Chapter-1%20Getting%20Started/1-compiler-and-linker.png?raw=true)
 
 ## C语言各版本标准
 
@@ -44,4 +44,4 @@ C语言编译器主流的有`gcc`和`clang`两种，各系统都使用 `cc` 别�
 2. 命令行内在文件目录下运行`cc example.c`，编译源文件
 3. 命令行内运行`./a.out`，执行编译后的可执行文件
 
-![Prepare for C program](2-prepare-c.png)
+![Prepare for C program](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/blob/master/Chapter-1%20Getting%20Started/2-prepare-c.png?raw=true)
