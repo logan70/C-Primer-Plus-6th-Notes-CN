@@ -23,10 +23,10 @@ function genLink(...pathArr) {
   const relativePath = path.relative(rootPath, absolutePath)
   const ext = path.extname(relativePath)
   if (!ext) {
-    return encodeURI(path.join(dirBasePath, relativePath))
+    return dirBasePath + encodeURI(relativePath)
   }
   const isImage = /jpe?g|png|gif/.test(ext)
-  const link = path.join(fileBasePath, relativePath) + (isImage ? '?raw=true' : '')
+  const link = fileBasePath + relativePath + (isImage ? '?raw=true' : '')
   return encodeURI(link)
 }
 

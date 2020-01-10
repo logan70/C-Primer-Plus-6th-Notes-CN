@@ -1,8 +1,4 @@
-# 第1章 初识C语言
-
-**[复习题解析](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/blob/master/Chapter-1%20Getting%20Started/review-questions/Answers.md)**
-
----
+# 第一章 初识C语言
 
 ## 最简单的C程序
 

@@ -1,8 +1,4 @@
-# 第2章 C语言概述
-
-**[复习题解析](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/blob/master/Chapter-1%20Introducing%20C/review-questions/Answers.md)**
-
----
+# 第二章 C语言概述
 
 ## 简单C程序示例及解释
 
