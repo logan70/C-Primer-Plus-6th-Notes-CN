@@ -52,9 +52,9 @@ function getExerciseLinks(chapter) {
   const exerciseFiles = fs.readdirSync(exerciseDir).filter(file => path.extname(file) === '.c')
   if (!exerciseFiles || !exerciseFiles.length) return ''
 
-  const title = '【编程练习】\n'
-  const content = exerciseFiles.reduce((str, file) => {
-    return str + `[${file.slice(0, -2)}](${genLink(exerciseDir, file)})\n`
-  }, '')
+  const title = `[【编程练习】](${genLink(exerciseDir)})\n`
+  const content = exerciseFiles
+    .map(file => `[${file.slice(0, -2)}](${genLink(exerciseDir, file)})`)
+    .join(' | \n')
   return title + content + '\n'
 }
