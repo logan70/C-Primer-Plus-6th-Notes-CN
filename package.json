@@ -1,0 +1,21 @@
+{
+  "name": "C-Primer-Plus-6th-Notes-CN",
+  "version": "1.0.0",
+  "description": "Reading-Notes for 《C Primer Plus》",
+  "main": "index.js",
+  "scripts": {
+    "next": "node build/ready-to-learn-next-chapter.js",
+    "build": "node build/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/logan70/C-Primer-Plus-6th-Notes-CN.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/issues"
+  },
+  "homepage": "https://github.com/logan70/C-Primer-Plus-6th-Notes-CN#readme"
+}
