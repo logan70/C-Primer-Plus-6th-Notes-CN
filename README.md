@@ -24,3 +24,7 @@
 [2-6](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/blob/master/Chapter-2%20Introducing%20C/exercise/2-6.c) | 
 [2-7](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/blob/master/Chapter-2%20Introducing%20C/exercise/2-7.c) | 
 [2-8](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/blob/master/Chapter-2%20Introducing%20C/exercise/2-8.c)
+## 第三章 数据和C
+
+[【学习笔记】](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/tree/master/Chapter-3%20Data%20and%20C)
+
