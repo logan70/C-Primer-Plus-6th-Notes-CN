@@ -19,7 +19,7 @@ function main() {
 }
 
 function generateChapterReadme() {
-  const genLinkReg = /genLink\(['"](.*)['"]\)/ig;
+  const genLinkReg = /genLink\(['"]?(.*)['"]?\)/ig;
   const chapterDirs = getChapterDirs();
   chapterDirs.forEach(chapter => {
     const readmePath = resolve(chapter, "README.md");

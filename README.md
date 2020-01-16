@@ -28,3 +28,5 @@
 
 [【学习笔记】](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/tree/master/Chapter-3%20Data%20and%20C)
 
+[【复习题解析】](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/blob/master/Chapter-3%20Data%20and%20C/review-questions/Answers.md)
+

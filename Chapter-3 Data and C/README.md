@@ -71,3 +71,77 @@ respones = 'T';
 **打印字符**
 
 `printf()`函数用`%c`指明待打印的字符。[示例代码](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/blob/master/Chapter-3%20Data%20and%20C/example/3.5-charcode.c) 演示了打印char类型变量的两种方式。
+
+注意，`printf()`函数中的转换说明决定了数据的显示方式，而不是数据的存储方式（见下图）。
+
+![数据显示和数据存储](genLint(images/3-data-show-and-storage.png))
+
+### _Bool类型
+
+C99标准添加了_Bool类型，用于表示 **布尔值**，即逻辑值true和false。1表示true，0表示false，原则上仅占用1位存储空间。
+
+### float、double和long double
+
+**float**
+
+C语言中的浮点类型有`float`、`double`和`long double`，浮点数的表示类似于科学记数法（即用小数乘以10的幂来表示数字，见下图）。
+
+![记数法示例](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/blob/master/Chapter-3%20Data%20and%20C/images/4-decimal.png)?raw=true
+
+C标准规定，`float`类型必须至少能表示6位有效数字，且取值范围至少是`10^-37 ~ 10^37`。通常系统存储一个浮点数要占用32位。1位符号位，7位指数位，24位尾数位。
+
+**double**
+
+`double`意为双精度，占用64位，和`float`类型的最小取值范围相同，但是至少必须能表示10位有效数字。
+
+**浮点型变量及常量**
+
+```c
+// 浮点型变量
+float noah;
+double trouble;
+float planck = 6.63e-34;
+long double gnp;
+
+// 浮点型常量
+
+-1.56E+12
+2.87e-3
+```
+
+**打印浮点值**
+
+- `%f` : 十进制记数法的`float`和`double`类型
+- `%e` : 指数记数法的`float`和`double`类型
+- `%a` : 十六进制指数记数法的`float`和`double`类型
+- `%Lf` : 十进制记数法的`long double`类型
+- `%Le` : 指数记数法的`long double`类型
+- `%La` : 十六进制指数记数法的`long double`类型
+
+代码演示见 [示例代码](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/blob/master/Chapter-3%20Data%20and%20C/example/3.7-showf_pt.c) 。
+
+**浮点值的上溢和下溢**
+
+- 上溢（overflow） : 当计算导致数字超过当前类型表达范围时，会发生上溢，`printf()`显示`int`或`infinity`。
+- 下溢（underflow） : 当计算导致损失了原末尾有效位上的数字，会发生下溢。C语言把损失了类型全精度的浮点值称为低于正常的（subnormal）浮点值。
+- NaN（not a number） ： 一个特殊的浮点值。`printf()`可将其显示未`nan`、`NaN`或其他类似内容。
+
+浮点数舍入错误演示详见 [示例代码](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/blob/master/Chapter-3%20Data%20and%20C/example/floaterr.c)。
+
+### 复数和虚数类型
+
+三种复数类型：`float_Complex`、`double_Complex`、`long double_Complex`。
+
+三种虚数类型：`float_Imaginary`、`double_Imaginary`、`long double_Imaginary`。
+
+复数类型的变量应该包含两个`float`类型的值，分别表示复数的实部和虚部。
+
+> 如果包含`complex.h`头文件，可用`complex`代替`_Complex`，用`imaginary`代替`_Imaginary`，还可以用`I`代替-1的平方根。
+
+### 类型大小
+
+`sizeof`是C语言的内置运算符，以字节为单位给出指定类型的大小。
+
+C99 和C11提供`%zd`转换说明匹配`sizeof`的返回类型。一些不支持C99和C11的 编译器可用`%u`或`%lu`代替`%zd`。
+
+`sizeof`的使用演示详见 [示例代码](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/blob/master/Chapter-3%20Data%20and%20C/example/3.8-typesize.c)
