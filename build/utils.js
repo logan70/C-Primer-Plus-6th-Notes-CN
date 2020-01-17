@@ -4,6 +4,9 @@ const path = require('path')
 exports.resolve = resolve
 exports.genLink = genLink
 exports.getChapterDirs = getChapterDirs
+exports.getAllFiles = getAllFiles
+exports.getAllMarkDowns = (...args) => getAllFiles(...args)
+  .filter(f => path.extname(f) === '.md')
 
 function resolve(...pathArr) {
   return path.resolve(rootPath, ...pathArr)
@@ -36,5 +39,17 @@ function getChapterDirs() {
       if (!name.startsWith('Chapter')) return false
       const isDir = fs.statSync(resolve(name)).isDirectory()
       return isDir
+    }, [])
+}
+
+function getAllFiles(dir = '', prefix = '') {
+  if (/\.git|\.DS_Store/.test(dir)) return [];
+  return fs.readdirSync(resolve(prefix, dir))
+    .reduce((files, name) => {
+      const fullPath = resolve(prefix, dir, name);
+      if (!fs.statSync(fullPath).isDirectory()) {
+        return [...files, fullPath]
+      }
+      return [...files, ...getAllFiles(name, path.join(prefix, dir))]
     }, [])
 }

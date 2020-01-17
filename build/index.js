@@ -9,27 +9,16 @@ const {
   reviewQuestionsDirName
 } = require("./constant");
 
-const { resolve, getChapterDirs, genLink } = require("./utils");
-
-main();
+const {
+  resolve,
+  getChapterDirs,
+  genLink,
+  getAllMarkDowns,
+} = require("./utils");
 
 function main() {
-  generateRootReadme();
-  generateChapterReadme();
-}
-
-function generateChapterReadme() {
-  const genLinkReg = /genLink\(['"]?(.*)['"]?\)/ig;
-  const chapterDirs = getChapterDirs();
-  chapterDirs.forEach(chapter => {
-    const readmePath = resolve(chapter, "README.md");
-    if (!fs.existsSync(readmePath))
-      return console.log(`${chapter} has no README.md`);
-    const readmeStr = fs
-      .readFileSync(readmePath, "utf-8")
-      .replace(genLinkReg, (match, imgPath) => genLink(chapter, imgPath));
-    fs.writeFileSync(readmePath, readmeStr, "utf-8");
-  });
+  // generateRootReadme();
+  replaceAllLinksInMarkDownFiles();
 }
 
 function generateRootReadme() {
@@ -42,7 +31,26 @@ function generateRootReadme() {
     return str;
   }, "");
   const readmeStr = HEADER + contentStr;
-  fs.writeFileSync(resolve("README.md"), readmeStr, "utf-8");
+  const readmePath = resolve('README.md');
+  fs.writeFileSync(readmePath, readmeStr, "utf-8");
+  replaceLinks(readmePath)
+}
+
+function replaceAllLinksInMarkDownFiles() {
+  const mdFiles = getAllMarkDowns();
+  mdFiles.forEach(file => replaceLinks(file))
+}
+
+const genLinkReg = /genLink\(['"]?(.+?)['"]?\)/ig;
+function replaceLinks(mdFilePath) {
+  if (!fs.existsSync(mdFilePath))
+    return console.log(`${mdFilePath} is not exist`);
+  
+  const mdFileDir = path.resolve(mdFilePath, '..')
+  const readmeStr = fs
+    .readFileSync(mdFilePath, "utf-8")
+    .replace(genLinkReg, (_, imgPath) => genLink(mdFileDir, imgPath));
+  fs.writeFileSync(mdFilePath, readmeStr, "utf-8");
 }
 
 function getTitle(chapter) {
@@ -79,3 +87,5 @@ function getExerciseLinks(chapter) {
     .join(" | \n");
   return title + content + "\n";
 }
+
+main();
