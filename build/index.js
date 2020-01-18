@@ -17,7 +17,7 @@ const {
 } = require("./utils");
 
 function main() {
-  // generateRootReadme();
+  generateRootReadme();
   replaceAllLinksInMarkDownFiles();
 }
 

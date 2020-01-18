@@ -64,7 +64,7 @@ int main(void)
 
 补充后的图片如下所示：
 
-![答案](genLink(../images/6-review-question-7.png))
+![答案](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/blob/master/Chapter-3%20Data%20and%20C/images/6-review-question-7.png?raw=true)
 
 ## 8.假设程序的开头有下列声明：
 
