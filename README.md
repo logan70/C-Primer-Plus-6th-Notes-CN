@@ -30,3 +30,12 @@
 
 [【复习题解析】](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/blob/master/Chapter-3%20Data%20and%20C/review-questions/Answers.md)
 
+[【编程练习】](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/tree/master/Chapter-3%20Data%20and%20C/exercise)
+[3-1](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/blob/master/Chapter-3%20Data%20and%20C/exercise/3-1.c) | 
+[3-2](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/blob/master/Chapter-3%20Data%20and%20C/exercise/3-2.c) | 
+[3-3](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/blob/master/Chapter-3%20Data%20and%20C/exercise/3-3.c) | 
+[3-4](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/blob/master/Chapter-3%20Data%20and%20C/exercise/3-4.c) | 
+[3-5](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/blob/master/Chapter-3%20Data%20and%20C/exercise/3-5.c) | 
+[3-6](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/blob/master/Chapter-3%20Data%20and%20C/exercise/3-6.c) | 
+[3-7](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/blob/master/Chapter-3%20Data%20and%20C/exercise/3-7.c) | 
+[3-8](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/blob/master/Chapter-3%20Data%20and%20C/exercise/3-8.c)
