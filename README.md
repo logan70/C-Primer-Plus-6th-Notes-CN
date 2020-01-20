@@ -39,3 +39,7 @@
 [3-6](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/blob/master/Chapter-3%20Data%20and%20C/exercise/3-6.c) | 
 [3-7](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/blob/master/Chapter-3%20Data%20and%20C/exercise/3-7.c) | 
 [3-8](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/blob/master/Chapter-3%20Data%20and%20C/exercise/3-8.c)
+## 第四章 字符串和格式化输入/输出
+
+[【学习笔记】](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/tree/master/Chapter-4%20Character%20Strings%20and%20Formatted%20Input-Output)
+
