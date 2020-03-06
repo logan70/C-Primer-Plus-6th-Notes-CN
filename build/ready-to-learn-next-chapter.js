@@ -9,6 +9,7 @@ const {
   exerciseDirName,
   imagesDirName,
   reviewQuestionsDirName,
+  reviewQuestionsFileName,
 } = require('./constant')
 const {
   getChapterDirs,
@@ -26,5 +27,6 @@ function main() {
   fs.mkdirSync(resolve(nextChapter, exerciseDirName)) // make programming-exercise dir of next chapter
   fs.mkdirSync(resolve(nextChapter, imagesDirName)) // make images dir of next chapter
   fs.mkdirSync(resolve(nextChapter, reviewQuestionsDirName)) // make review-questions dir of next chapter
+  fs.writeFileSync(resolve(nextChapter, reviewQuestionsDirName, reviewQuestionsFileName), '') // make review-questions file of next chapter
   fs.writeFileSync(resolve(nextChapter, 'README.md'), `# ${chapterCNNameMap[nextChapter]}\n\n`)// generate READMD.md
 }

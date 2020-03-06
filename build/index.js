@@ -85,7 +85,7 @@ function getExerciseLinks(chapter) {
   const content = exerciseFiles
     .map(file => `[${file.slice(0, -2)}](${genLink(exerciseDir, file)})`)
     .join(" | \n");
-  return title + content + "\n";
+  return title + content + "\n\n";
 }
 
 main();
