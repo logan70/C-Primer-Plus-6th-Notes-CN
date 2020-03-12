@@ -72,7 +72,7 @@ int fn(int ar[])
 
 ## 指针操作
 
-[示例程序prt_ops.c](genlink(example/10.13-prt_ops.c))演示了指针变量的8种基本操作。
+[示例程序prt_ops.c](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/blob/master/Chapter-10%20Arrays%20and%20Pointers/example/10.13-prt_ops.c)演示了指针变量的8种基本操作。
 
 1. 赋值：可以把地址赋给指针。用数组名、带地址运算符（&）的变量名、另一个指针进行赋值。地址应该和指针类型兼容。
 2. 解引用：*运算符给出指针指向地址上的存储的值。
@@ -92,7 +92,7 @@ int fn(int ar[])
 
 在函数原型和函数定义中声明形式参数时应使用关键字const，使函数在处理数组时将其视为常量，不可更改。
 
-[示例程序arf.c](genlink(example/10.14-arf.c))演示了需要改变数组的函数和不需要改变数组的函数的形参定义差别。
+[示例程序arf.c](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/blob/master/Chapter-10%20Arrays%20and%20Pointers/example/10.14-arf.c)演示了需要改变数组的函数和不需要改变数组的函数的形参定义差别。
 
 把const数据或非const数据的地址初始化为指向const的指针或为其赋值是合法的：
 
@@ -134,7 +134,7 @@ pc = &arr[1]; // 不允许
 
 ## 指针和多维数组
 
-[示例程序zippo1.c](genlink(example/10.15-zippo1.c))演示了多维数组和指针的内容。
+[示例程序zippo1.c](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/blob/master/Chapter-10%20Arrays%20and%20Pointers/example/10.15-zippo1.c)演示了多维数组和指针的内容。
 
 **声明指向多维数组的指针**
 
@@ -145,7 +145,7 @@ int(* pz)[2];
 int * pax[2]; // []优先级高
 ```
 
-[示例程序zippo2.c](genlink(example/10.16-zippo2.c))演示了如何使用指向二维数组的指针。
+[示例程序zippo2.c](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/blob/master/Chapter-10%20Arrays%20and%20Pointers/example/10.16-zippo2.c)演示了如何使用指向二维数组的指针。
 
 **函数和多维数组**
 
@@ -161,7 +161,7 @@ void somefunction(int (* pt)[4]);
 void somefunction(int pt[][4]);
 ```
 
-[示例程序array2d.c](genlink(example/10.17-array2d.c))演示了处理二维数组的函数。
+[示例程序array2d.c](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/blob/master/Chapter-10%20Arrays%20and%20Pointers/example/10.17-array2d.c)演示了处理二维数组的函数。
 
 ## 变长数组（VLA）
 
@@ -172,7 +172,7 @@ void somefunction(int pt[][4]);
 int sum2d(int rows, int cols, int ar[rows][cols]);
 ```
 
-[示例程序vararr2d.c](genlink(example/10.18-vararr2d.c))演示了如何使用函数操作变长数组。
+[示例程序vararr2d.c](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/blob/master/Chapter-10%20Arrays%20and%20Pointers/example/10.18-vararr2d.c)演示了如何使用函数操作变长数组。
 
 ## 复合字面量
 
