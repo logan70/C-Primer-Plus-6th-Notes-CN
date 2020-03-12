@@ -9,59 +9,6 @@
 
 [【复习题解析】](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/blob/master/Chapter-1%20Getting%20Started/review-questions/Answers.md)
 
-## 第十章 数组和指针
-
-[【学习笔记】](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/tree/master/Chapter-10%20Arrays%20and%20Pointers)
-
-[【编程练习】](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/tree/master/Chapter-10%20Arrays%20and%20Pointers/exercise)
-[10-1](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/blob/master/Chapter-10%20Arrays%20and%20Pointers/exercise/10-1.c) | 
-[10-10](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/blob/master/Chapter-10%20Arrays%20and%20Pointers/exercise/10-10.c) | 
-[10-11](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/blob/master/Chapter-10%20Arrays%20and%20Pointers/exercise/10-11.c) | 
-[10-12](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/blob/master/Chapter-10%20Arrays%20and%20Pointers/exercise/10-12.c) | 
-[10-13](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/blob/master/Chapter-10%20Arrays%20and%20Pointers/exercise/10-13.c) | 
-[10-14](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/blob/master/Chapter-10%20Arrays%20and%20Pointers/exercise/10-14.c) | 
-[10-2](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/blob/master/Chapter-10%20Arrays%20and%20Pointers/exercise/10-2.c) | 
-[10-3](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/blob/master/Chapter-10%20Arrays%20and%20Pointers/exercise/10-3.c) | 
-[10-4](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/blob/master/Chapter-10%20Arrays%20and%20Pointers/exercise/10-4.c) | 
-[10-5](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/blob/master/Chapter-10%20Arrays%20and%20Pointers/exercise/10-5.c) | 
-[10-6](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/blob/master/Chapter-10%20Arrays%20and%20Pointers/exercise/10-6.c) | 
-[10-7](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/blob/master/Chapter-10%20Arrays%20and%20Pointers/exercise/10-7.c) | 
-[10-8](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/blob/master/Chapter-10%20Arrays%20and%20Pointers/exercise/10-8.c) | 
-[10-9](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/blob/master/Chapter-10%20Arrays%20and%20Pointers/exercise/10-9.c)
-
-## 第十一章 字符串和字符串函数
-
-[【学习笔记】](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/tree/master/Chapter-11%20Character%20Strings%20and%20String%20Functions)
-
-[【编程练习】](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/tree/master/Chapter-11%20Character%20Strings%20and%20String%20Functions/exercise)
-[11-1](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/blob/master/Chapter-11%20Character%20Strings%20and%20String%20Functions/exercise/11-1.c) | 
-[11-10](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/blob/master/Chapter-11%20Character%20Strings%20and%20String%20Functions/exercise/11-10.c) | 
-[11-11](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/blob/master/Chapter-11%20Character%20Strings%20and%20String%20Functions/exercise/11-11.c) | 
-[11-12](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/blob/master/Chapter-11%20Character%20Strings%20and%20String%20Functions/exercise/11-12.c) | 
-[11-13](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/blob/master/Chapter-11%20Character%20Strings%20and%20String%20Functions/exercise/11-13.c) | 
-[11-14](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/blob/master/Chapter-11%20Character%20Strings%20and%20String%20Functions/exercise/11-14.c) | 
-[11-15](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/blob/master/Chapter-11%20Character%20Strings%20and%20String%20Functions/exercise/11-15.c) | 
-[11-16](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/blob/master/Chapter-11%20Character%20Strings%20and%20String%20Functions/exercise/11-16.c) | 
-[11-2](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/blob/master/Chapter-11%20Character%20Strings%20and%20String%20Functions/exercise/11-2.c) | 
-[11-3](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/blob/master/Chapter-11%20Character%20Strings%20and%20String%20Functions/exercise/11-3.c) | 
-[11-4](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/blob/master/Chapter-11%20Character%20Strings%20and%20String%20Functions/exercise/11-4.c) | 
-[11-5](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/blob/master/Chapter-11%20Character%20Strings%20and%20String%20Functions/exercise/11-5.c) | 
-[11-6](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/blob/master/Chapter-11%20Character%20Strings%20and%20String%20Functions/exercise/11-6.c) | 
-[11-7](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/blob/master/Chapter-11%20Character%20Strings%20and%20String%20Functions/exercise/11-7.c) | 
-[11-8](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/blob/master/Chapter-11%20Character%20Strings%20and%20String%20Functions/exercise/11-8.c) | 
-[11-9](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/blob/master/Chapter-11%20Character%20Strings%20and%20String%20Functions/exercise/11-9.c)
-
-## 第十二章 存储类别、链接和内存管理
-
-[【学习笔记】](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/tree/master/Chapter-12%20Storage%20Classes,%20Linkage,%20and%20Memory%20Management)
-
-[【编程练习】](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/tree/master/Chapter-12%20Storage%20Classes,%20Linkage,%20and%20Memory%20Management/exercise)
-[12-1](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/blob/master/Chapter-12%20Storage%20Classes,%20Linkage,%20and%20Memory%20Management/exercise/12-1.c) | 
-[12-4](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/blob/master/Chapter-12%20Storage%20Classes,%20Linkage,%20and%20Memory%20Management/exercise/12-4.c) | 
-[12-5](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/blob/master/Chapter-12%20Storage%20Classes,%20Linkage,%20and%20Memory%20Management/exercise/12-5.c) | 
-[12-6](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/blob/master/Chapter-12%20Storage%20Classes,%20Linkage,%20and%20Memory%20Management/exercise/12-6.c) | 
-[12-7](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/blob/master/Chapter-12%20Storage%20Classes,%20Linkage,%20and%20Memory%20Management/exercise/12-7.c)
-
 ## 第二章 C语言概述
 
 [【学习笔记】](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/tree/master/Chapter-2%20Introducing%20C)
@@ -169,4 +116,57 @@
 [9-7](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/blob/master/Chapter-9%20Functions/exercise/9-7.c) | 
 [9-8](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/blob/master/Chapter-9%20Functions/exercise/9-8.c) | 
 [9-9](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/blob/master/Chapter-9%20Functions/exercise/9-9.c)
+
+## 第十章 数组和指针
+
+[【学习笔记】](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/tree/master/Chapter-10%20Arrays%20and%20Pointers)
+
+[【编程练习】](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/tree/master/Chapter-10%20Arrays%20and%20Pointers/exercise)
+[10-1](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/blob/master/Chapter-10%20Arrays%20and%20Pointers/exercise/10-1.c) | 
+[10-10](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/blob/master/Chapter-10%20Arrays%20and%20Pointers/exercise/10-10.c) | 
+[10-11](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/blob/master/Chapter-10%20Arrays%20and%20Pointers/exercise/10-11.c) | 
+[10-12](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/blob/master/Chapter-10%20Arrays%20and%20Pointers/exercise/10-12.c) | 
+[10-13](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/blob/master/Chapter-10%20Arrays%20and%20Pointers/exercise/10-13.c) | 
+[10-14](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/blob/master/Chapter-10%20Arrays%20and%20Pointers/exercise/10-14.c) | 
+[10-2](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/blob/master/Chapter-10%20Arrays%20and%20Pointers/exercise/10-2.c) | 
+[10-3](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/blob/master/Chapter-10%20Arrays%20and%20Pointers/exercise/10-3.c) | 
+[10-4](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/blob/master/Chapter-10%20Arrays%20and%20Pointers/exercise/10-4.c) | 
+[10-5](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/blob/master/Chapter-10%20Arrays%20and%20Pointers/exercise/10-5.c) | 
+[10-6](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/blob/master/Chapter-10%20Arrays%20and%20Pointers/exercise/10-6.c) | 
+[10-7](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/blob/master/Chapter-10%20Arrays%20and%20Pointers/exercise/10-7.c) | 
+[10-8](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/blob/master/Chapter-10%20Arrays%20and%20Pointers/exercise/10-8.c) | 
+[10-9](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/blob/master/Chapter-10%20Arrays%20and%20Pointers/exercise/10-9.c)
+
+## 第十一章 字符串和字符串函数
+
+[【学习笔记】](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/tree/master/Chapter-11%20Character%20Strings%20and%20String%20Functions)
+
+[【编程练习】](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/tree/master/Chapter-11%20Character%20Strings%20and%20String%20Functions/exercise)
+[11-1](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/blob/master/Chapter-11%20Character%20Strings%20and%20String%20Functions/exercise/11-1.c) | 
+[11-10](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/blob/master/Chapter-11%20Character%20Strings%20and%20String%20Functions/exercise/11-10.c) | 
+[11-11](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/blob/master/Chapter-11%20Character%20Strings%20and%20String%20Functions/exercise/11-11.c) | 
+[11-12](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/blob/master/Chapter-11%20Character%20Strings%20and%20String%20Functions/exercise/11-12.c) | 
+[11-13](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/blob/master/Chapter-11%20Character%20Strings%20and%20String%20Functions/exercise/11-13.c) | 
+[11-14](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/blob/master/Chapter-11%20Character%20Strings%20and%20String%20Functions/exercise/11-14.c) | 
+[11-15](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/blob/master/Chapter-11%20Character%20Strings%20and%20String%20Functions/exercise/11-15.c) | 
+[11-16](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/blob/master/Chapter-11%20Character%20Strings%20and%20String%20Functions/exercise/11-16.c) | 
+[11-2](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/blob/master/Chapter-11%20Character%20Strings%20and%20String%20Functions/exercise/11-2.c) | 
+[11-3](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/blob/master/Chapter-11%20Character%20Strings%20and%20String%20Functions/exercise/11-3.c) | 
+[11-4](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/blob/master/Chapter-11%20Character%20Strings%20and%20String%20Functions/exercise/11-4.c) | 
+[11-5](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/blob/master/Chapter-11%20Character%20Strings%20and%20String%20Functions/exercise/11-5.c) | 
+[11-6](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/blob/master/Chapter-11%20Character%20Strings%20and%20String%20Functions/exercise/11-6.c) | 
+[11-7](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/blob/master/Chapter-11%20Character%20Strings%20and%20String%20Functions/exercise/11-7.c) | 
+[11-8](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/blob/master/Chapter-11%20Character%20Strings%20and%20String%20Functions/exercise/11-8.c) | 
+[11-9](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/blob/master/Chapter-11%20Character%20Strings%20and%20String%20Functions/exercise/11-9.c)
+
+## 第十二章 存储类别、链接和内存管理
+
+[【学习笔记】](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/tree/master/Chapter-12%20Storage%20Classes,%20Linkage,%20and%20Memory%20Management)
+
+[【编程练习】](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/tree/master/Chapter-12%20Storage%20Classes,%20Linkage,%20and%20Memory%20Management/exercise)
+[12-1](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/blob/master/Chapter-12%20Storage%20Classes,%20Linkage,%20and%20Memory%20Management/exercise/12-1.c) | 
+[12-4](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/blob/master/Chapter-12%20Storage%20Classes,%20Linkage,%20and%20Memory%20Management/exercise/12-4.c) | 
+[12-5](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/blob/master/Chapter-12%20Storage%20Classes,%20Linkage,%20and%20Memory%20Management/exercise/12-5.c) | 
+[12-6](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/blob/master/Chapter-12%20Storage%20Classes,%20Linkage,%20and%20Memory%20Management/exercise/12-6.c) | 
+[12-7](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/blob/master/Chapter-12%20Storage%20Classes,%20Linkage,%20and%20Memory%20Management/exercise/12-7.c)
 

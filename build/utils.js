@@ -33,6 +33,7 @@ function genLink(...pathArr) {
   return encodeURI(link)
 }
 
+const getChapterNum = str => Number(/\w*-(\d+)/.exec(str)[1])
 function getChapterDirs() {
   return fs.readdirSync(resolve())
     .filter(name => {
@@ -40,6 +41,9 @@ function getChapterDirs() {
       const isDir = fs.statSync(resolve(name)).isDirectory()
       return isDir
     }, [])
+    .sort((a, b) => {
+      return getChapterNum(a) - getChapterNum(b)
+    })
 }
 
 function getAllFiles(dir = '', prefix = '') {
