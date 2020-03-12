@@ -22,6 +22,7 @@ function main() {
   const chaptersAlreadyLearned = getChapterDirs()
   const chaptersNotLearned = allChapters.filter(chapter => !chaptersAlreadyLearned.includes(chapter))
   const nextChapter = chaptersNotLearned[0]
+  if (!nextChapter) return console.log('Congratulations, you have learned all chapters!')
   fs.mkdirSync(resolve(nextChapter)) // make root dir of next chapter
   fs.mkdirSync(resolve(nextChapter, exampleDirName)) // make example dir of next chapter
   fs.mkdirSync(resolve(nextChapter, exerciseDirName)) // make programming-exercise dir of next chapter
