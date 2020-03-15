@@ -34,7 +34,7 @@ int main(void)
       fprintf(stderr, "Can't open %s\n", file_src);
     else
     {
-      if (srtvbuf(fs, NULL, _IOFBF, BUFSIZE) != 0)
+      if (setvbuf(fs, NULL, _IOFBF, BUFSIZE) != 0)
       {
         fputs("Can't create input buffer\n", stderr);
         continue;
