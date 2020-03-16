@@ -170,3 +170,22 @@
 [12-6](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/blob/master/Chapter-12%20Storage%20Classes,%20Linkage,%20and%20Memory%20Management/exercise/12-6.c) | 
 [12-7](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/blob/master/Chapter-12%20Storage%20Classes,%20Linkage,%20and%20Memory%20Management/exercise/12-7.c)
 
+## 第十三章 文件输入/输出
+
+[【学习笔记】](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/tree/master/Chapter-13%20File%20Input-Output)
+
+[【编程练习】](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/tree/master/Chapter-13%20File%20Input-Output/exercise)
+[13-1](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/blob/master/Chapter-13%20File%20Input-Output/exercise/13-1.c) | 
+[13-10](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/blob/master/Chapter-13%20File%20Input-Output/exercise/13-10.c) | 
+[13-11](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/blob/master/Chapter-13%20File%20Input-Output/exercise/13-11.c) | 
+[13-12](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/blob/master/Chapter-13%20File%20Input-Output/exercise/13-12.c) | 
+[13-2](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/blob/master/Chapter-13%20File%20Input-Output/exercise/13-2.c) | 
+[13-3](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/blob/master/Chapter-13%20File%20Input-Output/exercise/13-3.c) | 
+[13-4](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/blob/master/Chapter-13%20File%20Input-Output/exercise/13-4.c) | 
+[13-5](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/blob/master/Chapter-13%20File%20Input-Output/exercise/13-5.c) | 
+[13-6](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/blob/master/Chapter-13%20File%20Input-Output/exercise/13-6.c) | 
+[13-7-a](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/blob/master/Chapter-13%20File%20Input-Output/exercise/13-7-a.c) | 
+[13-7-b](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/blob/master/Chapter-13%20File%20Input-Output/exercise/13-7-b.c) | 
+[13-8](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/blob/master/Chapter-13%20File%20Input-Output/exercise/13-8.c) | 
+[13-9](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/blob/master/Chapter-13%20File%20Input-Output/exercise/13-9.c)
+
