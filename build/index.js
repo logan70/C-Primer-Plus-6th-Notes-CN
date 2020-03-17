@@ -6,7 +6,8 @@ const {
   HEADER,
   exampleDirName,
   exerciseDirName,
-  reviewQuestionsDirName
+  reviewQuestionsDirName,
+  reviewQuestionsFileName,
 } = require("./constant");
 
 const {
@@ -67,7 +68,7 @@ function getReviewQuestionsLink(chapter) {
   const reviewQuestionsFile = resolve(
     chapter,
     reviewQuestionsDirName,
-    "Answers.md"
+    reviewQuestionsFileName
   );
   if (!fs.existsSync(reviewQuestionsFile)) return "";
   return `[【复习题解析】](${genLink(reviewQuestionsFile)})\n\n`;

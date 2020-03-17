@@ -45,6 +45,8 @@
 
 [【学习笔记】](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/tree/master/Chapter-4%20Character%20Strings%20and%20Formatted%20Input-Output)
 
+[【复习题解析】](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/blob/master/Chapter-4%20Character%20Strings%20and%20Formatted%20Input-Output/review-questions/Answers.md)
+
 [【编程练习】](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/tree/master/Chapter-4%20Character%20Strings%20and%20Formatted%20Input-Output/exercise)
 [4-1](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/blob/master/Chapter-4%20Character%20Strings%20and%20Formatted%20Input-Output/exercise/4-1.c) | 
 [4-2](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/blob/master/Chapter-4%20Character%20Strings%20and%20Formatted%20Input-Output/exercise/4-2.c) | 
@@ -58,6 +60,8 @@
 ## 第五章 运算符、表达式和语句
 
 [【学习笔记】](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/tree/master/Chapter-5%20Operators,%20Expressions,%20and%20Statements)
+
+[【复习题解析】](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/blob/master/Chapter-5%20Operators,%20Expressions,%20and%20Statements/review-questions/Answers.md)
 
 [【编程练习】](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/tree/master/Chapter-5%20Operators,%20Expressions,%20and%20Statements/exercise)
 [5-1](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/blob/master/Chapter-5%20Operators,%20Expressions,%20and%20Statements/exercise/5-1.c) | 
@@ -73,6 +77,8 @@
 ## 第六章 C控制语句：循环
 
 [【学习笔记】](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/tree/master/Chapter-6%20C%20Control%20Statements:%20Looping)
+
+[【复习题解析】](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/blob/master/Chapter-6%20C%20Control%20Statements:%20Looping/review-questions/Answers.md)
 
 [【编程练习】](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/tree/master/Chapter-6%20C%20Control%20Statements:%20Looping/exercise)
 [6-1](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/blob/master/Chapter-6%20C%20Control%20Statements:%20Looping/exercise/6-1.c) | 
@@ -98,13 +104,19 @@
 
 [【学习笔记】](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/tree/master/Chapter-7%20C%20Control%20Statements:%20Branching%20and%20Jumps)
 
+[【复习题解析】](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/blob/master/Chapter-7%20C%20Control%20Statements:%20Branching%20and%20Jumps/review-questions/Answers.md)
+
 ## 第八章 字符输入/输出和输入验证
 
 [【学习笔记】](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/tree/master/Chapter-8%20Character%20Input-Output%20and%20Input%20Validation)
 
+[【复习题解析】](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/blob/master/Chapter-8%20Character%20Input-Output%20and%20Input%20Validation/review-questions/Answers.md)
+
 ## 第九章 函数
 
 [【学习笔记】](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/tree/master/Chapter-9%20Functions)
+
+[【复习题解析】](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/blob/master/Chapter-9%20Functions/review-questions/Answers.md)
 
 [【编程练习】](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/tree/master/Chapter-9%20Functions/exercise)
 [9-1](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/blob/master/Chapter-9%20Functions/exercise/9-1.c) | 
@@ -120,6 +132,8 @@
 ## 第十章 数组和指针
 
 [【学习笔记】](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/tree/master/Chapter-10%20Arrays%20and%20Pointers)
+
+[【复习题解析】](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/blob/master/Chapter-10%20Arrays%20and%20Pointers/review-questions/Answers.md)
 
 [【编程练习】](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/tree/master/Chapter-10%20Arrays%20and%20Pointers/exercise)
 [10-1](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/blob/master/Chapter-10%20Arrays%20and%20Pointers/exercise/10-1.c) | 
@@ -140,6 +154,8 @@
 ## 第十一章 字符串和字符串函数
 
 [【学习笔记】](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/tree/master/Chapter-11%20Character%20Strings%20and%20String%20Functions)
+
+[【复习题解析】](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/blob/master/Chapter-11%20Character%20Strings%20and%20String%20Functions/review-questions/Answers.md)
 
 [【编程练习】](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/tree/master/Chapter-11%20Character%20Strings%20and%20String%20Functions/exercise)
 [11-1](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/blob/master/Chapter-11%20Character%20Strings%20and%20String%20Functions/exercise/11-1.c) | 
@@ -163,6 +179,8 @@
 
 [【学习笔记】](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/tree/master/Chapter-12%20Storage%20Classes,%20Linkage,%20and%20Memory%20Management)
 
+[【复习题解析】](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/blob/master/Chapter-12%20Storage%20Classes,%20Linkage,%20and%20Memory%20Management/review-questions/Answers.md)
+
 [【编程练习】](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/tree/master/Chapter-12%20Storage%20Classes,%20Linkage,%20and%20Memory%20Management/exercise)
 [12-1](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/blob/master/Chapter-12%20Storage%20Classes,%20Linkage,%20and%20Memory%20Management/exercise/12-1.c) | 
 [12-4](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/blob/master/Chapter-12%20Storage%20Classes,%20Linkage,%20and%20Memory%20Management/exercise/12-4.c) | 
@@ -173,6 +191,8 @@
 ## 第十三章 文件输入/输出
 
 [【学习笔记】](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/tree/master/Chapter-13%20File%20Input-Output)
+
+[【复习题解析】](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/blob/master/Chapter-13%20File%20Input-Output/review-questions/Answers.md)
 
 [【编程练习】](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/tree/master/Chapter-13%20File%20Input-Output/exercise)
 [13-1](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/blob/master/Chapter-13%20File%20Input-Output/exercise/13-1.c) | 
@@ -192,4 +212,6 @@
 ## 第十四章 结构和其他数据形式
 
 [【学习笔记】](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/tree/master/Chapter-14%20Structures%20and%20Other%20Data%20Forms)
+
+[【复习题解析】](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/blob/master/Chapter-14%20Structures%20and%20Other%20Data%20Forms/review-questions/Answers.md)
 

@@ -8,7 +8,7 @@ exports.exampleDirName = 'example'
 exports.exerciseDirName = 'exercise'
 exports.imagesDirName = 'images'
 exports.reviewQuestionsDirName = 'review-questions'
-exports.reviewQuestionsFileName = 'Answer.md'
+exports.reviewQuestionsFileName = 'Answers.md'
 
 exports.chapterCNNameMap = {
   'Chapter-1 Getting Started': '第一章 初识C语言',
