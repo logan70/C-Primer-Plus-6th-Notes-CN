@@ -189,3 +189,7 @@
 [13-8](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/blob/master/Chapter-13%20File%20Input-Output/exercise/13-8.c) | 
 [13-9](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/blob/master/Chapter-13%20File%20Input-Output/exercise/13-9.c)
 
+## 第十四章 结构和其他数据形式
+
+[【学习笔记】](https://github.com/logan70/C-Primer-Plus-6th-Notes-CN/tree/master/Chapter-14%20Structures%20and%20Other%20Data%20Forms)
+
